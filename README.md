@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+1. clone this project using git clone 'ssh url' (on terminal)
+2. cd rush
+3. npm i 
 
 ## Available Scripts
 
